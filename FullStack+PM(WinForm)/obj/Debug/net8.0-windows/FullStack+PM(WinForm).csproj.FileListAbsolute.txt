@@ -1,0 +1,14 @@
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\bin\Debug\net8.0-windows\FullStack+PM(WinForm).exe
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\bin\Debug\net8.0-windows\FullStack+PM(WinForm).deps.json
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\bin\Debug\net8.0-windows\FullStack+PM(WinForm).runtimeconfig.json
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\bin\Debug\net8.0-windows\FullStack+PM(WinForm).dll
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\bin\Debug\net8.0-windows\FullStack+PM(WinForm).pdb
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).AssemblyInfoInputs.cache
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).AssemblyInfo.cs
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).csproj.CoreCompileInputs.cache
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).dll
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\refint\FullStack+PM(WinForm).dll
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).pdb
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\FullStack+PM(WinForm).genruntimeconfig.cache
+C:\Users\mymin\Downloads\FullStack+PM(WinForm)\FullStack+PM(WinForm)\obj\Debug\net8.0-windows\ref\FullStack+PM(WinForm).dll
